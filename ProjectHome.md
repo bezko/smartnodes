@@ -1,0 +1,1 @@
+syntactic sugars to facilitate the creation of complexe maya graphs with few lines of codes
